@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    vertical-align: middle;
+}
+.nombreLogo {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    
+}
+
+#nombre {
+    font-weight: bolder;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+#imagenLogo {
+    border-radius: 100%;
+    width: 65px;
+}
+
+#titulo {
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cont2{
+    margin-top: 50px;
+}
